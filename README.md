@@ -1,5 +1,5 @@
 # Anayasa v2
-Bu repo yakın ve orta uzak gelecete gerçekleşmesi beklenen ufuktaki bilimsel gelişmeleri göz önüne alarak Türkiye'nin yapması gereken anayasal değişiklikler için bir özet ve tartışma alanı olması amacıyla oluşturulmuştur. Bir manifestodan çok bir tartışma platfomu olması amaçlanmıştır. Her türlü görüş ve değişiklik önerileriniz için lütfen **Issue** açınız.
+Bu repo yakın ve orta uzak gelecete gerçekleşmesi beklenen bilimsel gelişmeleri göz önüne alarak Türkiye'nin yapması gereken anayasal değişiklikler için bir özet ve tartışma alanı olması amacıyla oluşturulmuştur. Bir manifestodan çok bir tartışma platfomu olması amaçlanmıştır. Her türlü görüş ve değişiklik önerileriniz için lütfen **Issue** açınız.
 
 ### Konu Başlıkları
 

@@ -4,9 +4,9 @@ Genel Tartışma Alanı: [Issue 1](https://github.com/AttilaSATAN/anayasa-v2/iss
 
 ## Amaç
 
-Bu döküman, kısa, orta ve uzun dönemde bilişim sektöründeki gelişmeler sonucu ortadan kalkacak mesleklerin listesini tutmak amacıyla oluşturulmuştur.
+Bu döküman, kısa, orta ve uzun dönemde bilişim sektöründeki gelişmeler sonucu ortadan kalkacak mesleklerin listesini oluştururken takip edilecek kuralları tanımlamak amacıyla oluşturulmuştur.
 
-Listede yer alan meslekler yok olacaklarını kanıtlayan veya öne süren kanıt ve önermelere göre dört seviye ile işaretlenmiştir. Dördüncü seviye insan faktörünün mesleğin içerisinden asla çıkmayacağını ancak şu anki etkinliğinden daha az olacağı öngörüsünü işaretlemektedir. 
+Listede yer alan meslekler, yok olacaklarını kanıtlayan veya öne süren kanıt ve önermelere göre dört seviye ile işaretlenmiştir. Dördüncü seviye insan faktörünün mesleğin içerisinden asla çıkmayacağını ancak şu anki etkinliğinden daha az olacağı öngörüsünü işaretlemektedir. 
 
 ## Yok Olma Seviyeleri
 

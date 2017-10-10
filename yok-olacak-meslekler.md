@@ -8,15 +8,15 @@ Listede yer alan meslekler yok olacaklarını kanıtlayan veya öne süren kanı
 
 ## Yok Olma Seviyeleri
 
-### 1. Yokolma Sürecindeki Meslek
+### 1. Yok Olma Sürecindeki Meslek
 
 Bu seviye işareti mesleğin yok olacağını ve hatta yok olma süreci içerisinde olduğunu belirtmektedir. Bir mesleğin bu seviye ile işaretlenmesi için elle tutulur kanıtlar ve/veya hali hazırda işlemekte olan insansız sistemler mevcuttur.
 
-### 2. Yokolması Beklenen Meslek
+### 2. Yok Olması Beklenen Meslek
 
 İkinci seviye meslekler bilişim sektöründeki gelişmeler ile insan faktörünün meslekten çıkarılabileceğinin kolaylıkla öngörülebildiği, işin otomasyonu üzerine bilimsel çalışma veya Ar-Ge çalışması yapılan mesleklerdir. Bu seviye ile işaretlenebilmesi için mesleğin yerini dolduracak inovatif ürünün geliştiriliyor olması gerekmektedir.
 
-### 3. Yokolması Muhtemel Meslek
+### 3. Yok Olması Muhtemel Meslek
 
 Bu seviyedeki meslekler bir genelemeye tabi ise işaretlenebilmektedir. Genel geçer kural olarak sürekli tekara dayalı mesleklerin tamamı bu kategoriye girebilmektedir. Eğer meslek bir işlemin tekrarından ibaretse herhangi bir kanıt göstermeden sadece bu önerme ispatlanarak meslek üçüncü seviye olarak işaretlenebilir.
 

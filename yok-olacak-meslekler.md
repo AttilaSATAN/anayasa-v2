@@ -1,5 +1,7 @@
 # Yok Olacak Meslekler
 
+Genel Tartışma Alanı: [Issue 1](https://github.com/AttilaSATAN/anayasa-v2/issues/1)
+
 ## Amaç
 
 Bu döküman, kısa, orta ve uzun dönemde bilişim sektöründeki gelişmeler sonucu ortadan kalkacak mesleklerin listesini tutmak amacıyla oluşturulmuştur.

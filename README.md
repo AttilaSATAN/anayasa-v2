@@ -11,3 +11,7 @@ Bu repo yakın ve orta uzak gelecete gerçekleşmesi beklenen bilimsel gelişmel
 6. Hukuk
 7. Yönetim Sistemi / Bürokrasi / Meritokrasi
 8. Daha fazla başlık için lütfen "issue" açınız.
+
+### Dökümanlar
+
+[Yok Olacak Meslekler](https://github.com/AttilaSATAN/anayasa-v2/blob/master/yok-olacak-meslekler.md)
